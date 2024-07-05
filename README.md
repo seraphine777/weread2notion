@@ -11,38 +11,33 @@
 
 ## 使用
 
-使用文档：https://malinkang.com/posts/weread2notion/
+> [!IMPORTANT]  
+> 关注公众号回复**微信读书**获取教程，后续有更新也会第一时间在公众号里同步。
+
+![扫码_搜索联合传播样式-标准色版](https://github.com/malinkang/weread2notion/assets/3365208/191900c6-958e-4f9b-908d-a40a54889b5e)
+
+
+## 群
+> [!IMPORTANT]  
+> 欢迎加入群讨论。可以讨论使用中遇到的任何问题，也可以讨论Notion使用，后续我也会在群中分享更多Notion自动化工具。微信群失效的话可以添加我的微信malinkang，我拉你入群。
+
+| 微信群 | QQ群 |
+| --- | --- |
+| <div align="center"><img src="https://github.com/malinkang/weread2notion/assets/3365208/f230a01f-bc1a-48dc-95f6-ac7ad0d1ecc5" ></div> | <div align="center"><img src="https://images.malinkang.com/2024/04/b225b17d60670e4a6ff3459bbde80d28.jpg" width="50%"></div> |
+
 
 ## 捐赠
 
 如果你觉得本项目帮助了你，请作者喝一杯咖啡，你的支持是作者最大的动力。本项目会持续更新。
 
-![](./asset/WechatIMG27.jpg)
+| 支付宝支付 | 微信支付 |
+| --- | --- |
+| <div align="center"><img src="https://images.malinkang.com/2024/03/7fd0feb1145f19fab3821ff1d4631f85.jpg" width="50%"></div> | <div align="center"><img src="https://images.malinkang.com/2024/03/d34f577490a32d4440c8a22f57af41da.jpg" width="50%"></div> |
 
-## 问题解答
-
-1. 如果发现数据没有同步，请点击Action查看运行状态。红色表示失败，绿色代表成功，如果有失败的点击去查看详情，检查值是否填写正确
-2. Categories is expected to be select. 这个是模板设置的问题，将模板中的Categories修改为Multi-select类型
-3. 模板中的属性解释
-    * BookName：书名
-    * BookId：书Id
-    * Sort：主要用于增量同步没啥实际意义
-    * Cover：封面
-    * Author：作者
-    * Status：状态
-    * ReadingTime：阅读时长
-    * Date：读完日期
-    * Rating：评分
-    * URL：网页链接
-    * Categories：分类
-    * Progress：阅读进度
-
-
-## 微信群
-> [!WARNING]  
-> 微信群已满，加我备注微信读书，我拉你进群。
-> 也可以加TG群：https://t.me/wereadnotion
-
- ![image](./asset/WechatIMG24.jpg)
-
+## 其他项目
+* [WeRead2Notion-Pro](https://github.com/malinkang/weread2notion-pro)
+* [WeRead2Notion](https://github.com/malinkang/weread2notion)
+* [Podcast2Notion](https://github.com/malinkang/podcast2notion)
+* [Douban2Notion](https://github.com/malinkang/douban2notion)
+* [Keep2Notion](https://github.com/malinkang/keep2notion)
 
